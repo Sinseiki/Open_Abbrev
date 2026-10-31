@@ -1,0 +1,15 @@
+﻿operation,key
+add,Q
+add,q
+add,W
+add,w
+add,E
+add,e
+add,Z
+add,z
+remove,;
+remove,:
+remove,'
+remove,double-quote
+remove,.
+remove,comma
